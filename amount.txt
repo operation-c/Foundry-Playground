@@ -1,0 +1,3799 @@
+Compiling 1 files with Solc 0.8.26
+Solc 0.8.26 finished in 995.08ms
+Compiler run successful!
+
+Ran 1 test for test/W2_Invairant.t.sol:W2_Invariant_Test
+[PASS] invariant_w2_withdraw() (runs: 256, calls: 128000, reverts: 42599)
+Logs:
+  Bound result 9576485039890799730
+  Bound result 1255
+  Bound result 14
+  Bound result 7926351754371029853
+  Bound result 44659286616635014
+  Bound result 7435652809337130336
+  Bound result 1917772118913162417
+  Bound result 430
+  Bound result 3067
+  Bound result 5286064696084399005
+  Bound result 1
+  Bound result 1928
+  Bound result 8220780600480571114
+  Bound result 6907110779986364986
+  Bound result 2163523
+  Bound result 957795371688
+  Bound result 6193091636236033737
+  Bound result 31
+  Bound result 788916555912408795
+  Bound result 4355
+  Bound result 3914593637719170324
+  Bound result 3808416884460234543
+  Bound result 11076405285511
+  Bound result 2719
+  Bound result 410483
+  Bound result 3284599139805275068
+  Bound result 1341
+  Bound result 9999999999999999998
+  Bound result 1310178369598041959
+  Bound result 63
+  Bound result 5073
+  Bound result 8281678504991673612
+  Bound result 4036008604855205192
+  Bound result 971
+  Bound result 9999999999999999999
+  Bound result 4204547827050186766
+  Bound result 2186985705213161120
+  Bound result 9580471208044291541
+  Bound result 3394427236684059499
+  Bound result 3597
+  Bound result 1837614523830319290
+  Bound result 4064611294713586823
+  Bound result 5871099570449582615
+  Bound result 1
+  Bound result 5992304400134102474
+  Bound result 5482130268718735274
+  Bound result 8125796798139697263
+  Bound result 1837614523830319290
+  Bound result 4524272230236053821
+  Bound result 2
+  Bound result 110025605526
+  Bound result 845419330304391322
+  Bound result 1
+  Bound result 5864860170452759618
+  Bound result 8900528294493862709
+  Bound result 38
+  Bound result 4226
+  Bound result 452857328473
+  Bound result 9910979099896936559
+  Bound result 5847858615501444578
+  Bound result 297
+  Bound result 4051
+  Bound result 8981139836016061
+  Bound result 5742642121197941783
+  Bound result 5770
+  Bound result 4466554582960386051
+  Bound result 1263
+  Bound result 932
+  Bound result 9672361286439114399
+  Bound result 4646936244252971509
+  Bound result 295
+  Bound result 513
+  Bound result 3084
+  Bound result 4625
+  Bound result 1340
+  Bound result 44659286616635014
+  Bound result 540
+  Bound result 1779
+  Bound result 487946285
+  Bound result 4552
+  Bound result 595703999297364429
+  Bound result 3545782490056662542
+  Bound result 276
+  Bound result 4029
+  Bound result 6012603672666310467
+  Bound result 9999999999999999997
+  Bound result 7403894114037820561
+  Bound result 3119753396783495766
+  Bound result 2548571769412799613
+  Bound result 652
+  Bound result 8113118580025619356
+  Bound result 5650229432675821176
+  Bound result 83254266100949183
+  Bound result 4659
+  Bound result 3375577
+  Bound result 6556012818187397901
+  Bound result 436
+  Bound result 5769
+  Bound result 6997304897747031149
+  Bound result 3066
+  Bound result 4728448526930800895
+  Bound result 331
+  Bound result 3819008617495916526
+  Bound result 1621632228053213180
+  Bound result 5768
+  Bound result 1402190375475416033
+  Bound result 22725641585
+  Bound result 2093129627896850557
+  Bound result 5992304400134102474
+  Bound result 42
+  Bound result 4030
+  Bound result 2970230010888236819
+  Bound result 2947
+  Bound result 6919225268055308950
+  Bound result 4224910886111201478
+  Bound result 3602032941597344701
+  Bound result 6802432621336724112
+  Bound result 7119585900670163290
+  Bound result 5683836823111349141
+  Bound result 5543109916115597509
+  Bound result 9999999999999999997
+  Bound result 3694
+  Bound result 452194938522845471
+  Bound result 1889567280
+  Bound result 1792
+  Bound result 3684785376501301069
+  Bound result 8553227576976265964
+  Bound result 778577
+  Bound result 2918
+  Bound result 147176
+  Bound result 5740800720666961036
+  Bound result 1
+  Bound result 3795656008595186188
+  Bound result 9783390992913345814
+  Bound result 136418954283409949
+  Bound result 4592
+  Bound result 5769271343068079375
+  Bound result 619805128995143089
+  Bound result 2980895320632402118
+  Bound result 1992501095439741774
+  Bound result 3753864082153093685
+  Bound result 5742642121197941783
+  Bound result 9058940496885713409
+  Bound result 1
+  Bound result 6489714862785116675
+  Bound result 5692
+  Bound result 3312
+  Bound result 544584235894358187
+  Bound result 9598288018331150612
+  Bound result 4904377193769027561
+  Bound result 1305025591985297
+  Bound result 291
+  Bound result 7515464574444343935
+  Bound result 4397
+  Bound result 2157383782684419259
+  Bound result 4229966437493578543
+  Bound result 1951
+  Bound result 537
+  Bound result 5522
+  Bound result 8193275256837551074
+  Bound result 3595577254488723392
+  Bound result 3544238014898834386
+  Bound result 4702498337736912851
+  Bound result 4433
+  Bound result 9999999999999999999
+  Bound result 5464
+  Bound result 5668
+  Bound result 6879667480835484358
+  Bound result 6796599244832353865
+  Bound result 5416
+  Bound result 2299
+  Bound result 9371237789073288013
+  Bound result 2
+  Bound result 358
+  Bound result 6351670258767227104
+  Bound result 247
+  Bound result 3572384670693261792
+  Bound result 2386
+  Bound result 2351919675875207741
+  Bound result 10000000000000000000
+  Bound result 75518199933928303
+  Bound result 9265726428356396542
+  Bound result 8489921480941727694
+  Bound result 3392154725796965906
+  Bound result 48720
+  Bound result 2583102735883463128
+  Bound result 2159659535506861126
+  Bound result 854925460248109072
+  Bound result 139
+  Bound result 5663849869329333723
+  Bound result 5333462080277046461
+  Bound result 6720700
+  Bound result 5426807638570942936
+  Bound result 571
+  Bound result 7294433244471291167
+  Bound result 34818856107300912
+  Bound result 4
+  Bound result 3905908525362434348
+  Bound result 968
+  Bound result 6649170623639827396
+  Bound result 5256944362533813139
+  Bound result 2471547506366054997
+  Bound result 483741089173051399
+  Bound result 2033
+  Bound result 3688445400928461103
+  Bound result 1
+  Bound result 1
+  Bound result 3347351056486407527
+  Bound result 6638997917124492831
+  Bound result 2396628132287542747
+  Bound result 285705741431895
+  Bound result 8646275749897716029
+  Bound result 4620709240639543003
+  Bound result 3090517963520070452
+  Bound result 14
+  Bound result 9757388950709857624
+  Bound result 3151
+  Bound result 9999999999999999998
+  Bound result 3218
+  Bound result 1502927124786
+  Bound result 3382066002192317060
+  Bound result 5742030618433430676
+  Bound result 6674212035338002
+  Bound result 8914805475016816288
+  Bound result 1160024340073485327
+  Bound result 9999999999999999998
+  Bound result 3312
+  Bound result 3688445400928470107
+  Bound result 652
+  Bound result 5222
+  Bound result 5788
+  Bound result 3306134328206773994
+  Bound result 828774593362933048
+  Bound result 892293976944937159
+  Bound result 8096720994992837203
+  Bound result 1951
+  Bound result 5671472039330036177
+  Bound result 1106
+  Bound result 5498241373286697538
+  Bound result 2577357
+  Bound result 194109777720922477
+  Bound result 4621892349001810755
+  Bound result 1787648702665280093
+  Bound result 2017
+  Bound result 9768743672344042704
+  Bound result 2526515700899696386
+  Bound result 7280810949771229194
+  Bound result 1868933297723894580
+  Bound result 9194
+  Bound result 4412
+  Bound result 3544238014898834386
+  Bound result 2
+  Bound result 2281
+  Bound result 9074022908152729860
+  Bound result 1297
+  Bound result 8
+  Bound result 2268972011535474700
+  Bound result 7741443349794106153
+  Bound result 1462006891992209010
+  Bound result 2920988734335432529
+  Bound result 2120405837915469
+  Bound result 9999999999999999997
+  Bound result 3272778957153673513
+  Bound result 5605877424778595081
+  Bound result 3987642108045080757
+  Bound result 2
+  Bound result 3544486206507417893
+  Bound result 5458468128293588092
+  Bound result 9539911047887450431
+  Bound result 3155517375071782753
+  Bound result 343709060860026
+  Bound result 7622071958032176770
+  Bound result 3230896426091332763
+  Bound result 4568962923133495700
+  Bound result 3382066002192317060
+  Bound result 1826
+  Bound result 567
+  Bound result 134184997351
+  Bound result 6781410299313930911
+  Bound result 1122654052819446150
+  Bound result 229954631842
+  Bound result 7314877085680099151
+  Bound result 49335106724
+  Bound result 10828
+  Bound result 9999999999999999999
+  Bound result 2639814669137346200
+  Bound result 4036008604855205192
+  Bound result 6492967852259252587
+  Bound result 6383338176590228924
+  Bound result 2
+  Bound result 3452181014321813428
+  Bound result 6318698049476729902
+  Bound result 12378030348367624
+  Bound result 1946932268898869595
+  Bound result 2046520553
+  Bound result 2472052305598229620
+  Bound result 1313373041
+  Bound result 3922
+  Bound result 1402190375475416033
+  Bound result 1
+  Bound result 4086165791669118912
+  Bound result 5586531317944256837
+  Bound result 4296886235626081280
+  Bound result 3
+  Bound result 6351670258767227104
+  Bound result 424
+  Bound result 2019896757805486147
+  Bound result 2928370550476203340
+  Bound result 5518651462753193234
+  Bound result 1656
+  Bound result 7298438445300538266
+  Bound result 5148834812732191786
+  Bound result 5060265830650653835
+  Bound result 8145516790176916808
+  Bound result 346
+  Bound result 207
+  Bound result 4702498337736912851
+  Bound result 4621892349001810755
+  Bound result 869
+  Bound result 4951
+  Bound result 5639248229
+  Bound result 8821248953711277320
+  Bound result 4646
+  Bound result 764073977653705646
+  Bound result 1
+  Bound result 1253702626728626471
+  Bound result 4245
+  Bound result 8076541781599347579
+
+Traces:
+  [65183] W2_Handler::w2_deposit(8271623149769576485039890799730 [8.271e30])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9576485039890799730 [9.576e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [23892] Wallet::deposit{value: 9576485039890799730}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9576485039890799730 [9.576e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1255)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1255) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1255}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1255)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1255)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(14)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 14) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 14}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 14)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 14)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(6561461894103410527589059791117871007926351754371029853 [6.561e54])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7926351754371029853 [7.926e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 7926351754371029853}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7926351754371029853 [7.926e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(44659286616635014 [4.465e16])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 44659286616635014 [4.465e16]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 44659286616635014}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 44659286616635014 [4.465e16])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 44659286616635014 [4.465e16])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(12612972525277998086583626311379389967435652809337130336 [1.261e55])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7435652809337130336 [7.435e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 7435652809337130336}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7435652809337130336 [7.435e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(5810625742495904940486722971917772118913162417 [5.81e45])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1917772118913162417 [1.917e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1917772118913162417}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1917772118913162417 [1.917e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1917772118913162417 [1.917e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(430)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 430) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 430}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 430)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 430)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3067)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3067) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3067}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3067)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(5286064696084399005 [5.286e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5286064696084399005 [5.286e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5286064696084399005}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5286064696084399005 [5.286e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1928)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1928) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1928}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1928)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1928)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(3504633332028220780600480571114 [3.504e30])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8220780600480571114 [8.22e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8220780600480571114}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8220780600480571114 [8.22e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8220780600480571114 [8.22e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(29234711035746845166947272752514445792852038631769316907110779986364986 [2.923e70])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6907110779986364986 [6.907e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6907110779986364986}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6907110779986364986 [6.907e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6907110779986364986 [6.907e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2163523 [2.163e6])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2163523 [2.163e6]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2163523}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2163523 [2.163e6])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(957795371688 [9.577e11])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 957795371688 [9.577e11]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 957795371688}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 957795371688 [9.577e11])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(384058190914544555416193091636236033737 [3.84e38])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6193091636236033737 [6.193e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6193091636236033737}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6193091636236033737 [6.193e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(31)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 31) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 31}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 31)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(525082160085229455614593074259749150059107002052874390788916555912408795 [5.25e71])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 788916555912408795 [7.889e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 788916555912408795}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 788916555912408795 [7.889e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 788916555912408795 [7.889e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4355)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4355) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4355}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4355)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(534900145135159579648897046077220750517616440099234537433914593637719170324 [5.349e74])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3914593637719170324 [3.914e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3914593637719170324}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3914593637719170324 [3.914e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(86848911721509281041134494952974905204993330660717093808416884460234543 [8.684e70])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3808416884460234543 [3.808e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3808416884460234543}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3808416884460234543 [3.808e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(11076405285511 [1.107e13])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 11076405285511 [1.107e13]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 11076405285511}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 11076405285511 [1.107e13])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2719)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2719) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2719}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2719)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2719)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(410483 [4.104e5])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 410483 [4.104e5]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 410483}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 410483 [4.104e5])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 410483 [4.104e5])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(2854635848971014303284599139805275068 [2.854e36])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3284599139805275068 [3.284e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3284599139805275068}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3284599139805275068 [3.284e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1341)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1341) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1341}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1341)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1341)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639933 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999998 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9999999999999999998}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999998 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1310178369598041959 [1.31e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1310178369598041959 [1.31e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1310178369598041959}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1310178369598041959 [1.31e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(63)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 63) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 63}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 63)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5073)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5073) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5073}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5073)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5073)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(1576608668705040084020709557074675164698543402740021551818281678504991673612 [1.576e75])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8281678504991673612 [8.281e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 8281678504991673612}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8281678504991673612 [8.281e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(8886600948026951532285254059224036008604855205192 [8.886e48])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4036008604855205192 [4.036e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4036008604855205192}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4036008604855205192 [4.036e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4036008604855205192 [4.036e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(971)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 971) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 971}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 971)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 971)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639934 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999999 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9999999999999999999}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999999 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(345553252114407007242200424269367579386836444204547827050186766 [3.455e62])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4204547827050186766 [4.204e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4204547827050186766}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4204547827050186766 [4.204e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(32186985705213161120 [3.218e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2186985705213161120 [2.186e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2186985705213161120}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2186985705213161120 [2.186e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2186985705213161120 [2.186e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(73057896430403119580471208044291541 [7.305e34])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9580471208044291541 [9.58e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9580471208044291541}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9580471208044291541 [9.58e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(17628546214784083469381739302553394427236684059499 [1.762e49])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3394427236684059499 [3.394e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3394427236684059499}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3394427236684059499 [3.394e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3597)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3597) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3597}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3597)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(518648013774142475461032963444779810829139302827117431837614523830319290 [5.186e71])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1837614523830319290 [1.837e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1837614523830319290}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1837614523830319290 [1.837e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1837614523830319290 [1.837e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(31332784873949844634922840149392896300617004517044064611294713586823 [3.133e67])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4064611294713586823 [4.064e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4064611294713586823}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4064611294713586823 [4.064e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(15315115546447817110311348617342209926063975871099570449582615 [1.531e61])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5871099570449582615 [5.871e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5871099570449582615}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5871099570449582615 [5.871e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5871099570449582615 [5.871e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(4118154287741220988395273161685134433521373339448256350635992304400134102474 [4.118e75])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5992304400134102474 [5.992e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5992304400134102474}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5992304400134102474 [5.992e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5992304400134102474 [5.992e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(7007276285807279006068730238973834355482130268718735274 [7.007e54])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5482130268718735274 [5.482e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5482130268718735274}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5482130268718735274 [5.482e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(193428561021826182831578125796798139697263 [1.934e41])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8125796798139697263 [8.125e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8125796798139697263}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8125796798139697263 [8.125e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8125796798139697263 [8.125e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1837614523830319290 [1.837e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1837614523830319290 [1.837e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1837614523830319290}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1837614523830319290 [1.837e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1837614523830319290 [1.837e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(86777821545143085078560132729357848632275520511495902114524272230236053821 [8.677e73])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4524272230236053821 [4.524e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4524272230236053821}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4524272230236053821 [4.524e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(110025605526 [1.1e11])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 110025605526 [1.1e11]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 110025605526}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 110025605526 [1.1e11])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(40845419330304391322 [4.084e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 845419330304391322 [8.454e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 845419330304391322}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 845419330304391322 [8.454e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 845419330304391322 [8.454e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30574] W2_Handler::w2_deposit(0)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(383742106460803302663925864860170452759618 [3.837e41])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5864860170452759618 [5.864e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5864860170452759618}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5864860170452759618 [5.864e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(498430148171610554798622300728900528294493862709 [4.984e47])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8900528294493862709 [8.9e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 8900528294493862709}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8900528294493862709 [8.9e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(38)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 38) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 38}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 38)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 38)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4226)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4226) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4226}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4226)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(452857328473 [4.528e11])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 452857328473 [4.528e11]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 452857328473}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 452857328473 [4.528e11])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(101416908138829319910979099896936559 [1.014e35])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9910979099896936559 [9.91e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9910979099896936559}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9910979099896936559 [9.91e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9910979099896936559 [9.91e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(42747283509101589671464194424015847858615501444578 [4.274e49])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5847858615501444578 [5.847e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5847858615501444578}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5847858615501444578 [5.847e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(297)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 297) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 297}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 297)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4051)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4051) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4051}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4051)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4051)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(8981139836016061 [8.981e15])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8981139836016061 [8.981e15]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8981139836016061}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8981139836016061 [8.981e15])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8981139836016061 [8.981e15])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(47193826682778901309006985742642121197941783 [4.719e43])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5742642121197941783 [5.742e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5742642121197941783}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5742642121197941783 [5.742e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5742642121197941783 [5.742e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(5770)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5770) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5770}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5770)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(272994466554582960386051 [2.729e23])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4466554582960386051 [4.466e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4466554582960386051}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4466554582960386051 [4.466e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1263)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1263) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1263}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1263)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1263)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(932)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 932) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 932}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 932)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(149672361286439114399 [1.496e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9672361286439114399 [9.672e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9672361286439114399}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9672361286439114399 [9.672e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9672361286439114399 [9.672e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(258624646936244252971509 [2.586e23])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4646936244252971509 [4.646e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4646936244252971509}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4646936244252971509 [4.646e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4646936244252971509 [4.646e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(295)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 295) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 295}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 295)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(513)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 513) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 513}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 513)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3084)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3084) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3084}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3084)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4625)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4625) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4625}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4625)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4625)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1340)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1340) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1340}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1340)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(44659286616635014 [4.465e16])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 44659286616635014 [4.465e16]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 44659286616635014}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 44659286616635014 [4.465e16])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 44659286616635014 [4.465e16])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(540)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 540) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 540}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 540)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 540)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1779)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1779) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1779}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1779)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1779)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(487946285 [4.879e8])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 487946285 [4.879e8]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 487946285}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 487946285 [4.879e8])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4552)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4552) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4552}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4552)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4552)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(22071720090595703999297364429 [2.207e28])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 595703999297364429 [5.957e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 595703999297364429}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 595703999297364429 [5.957e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(54012790160129963953545782490056662542 [5.401e37])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3545782490056662542 [3.545e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3545782490056662542}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3545782490056662542 [3.545e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(276)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 276) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 276}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 276)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 276)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4029)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4029) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4029}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4029)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4029)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(59219957156649443531250556426012603672666310467 [5.921e46])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6012603672666310467 [6.012e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6012603672666310467}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6012603672666310467 [6.012e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6012603672666310467 [6.012e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31978] W2_Handler::w2_receive(115792089237316195423570985008687907853269984665640564039457584007913129639932 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999997 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9999999999999999997}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999997 [9.999e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999997 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(187403894114037820561 [1.874e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7403894114037820561 [7.403e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7403894114037820561}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7403894114037820561 [7.403e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7403894114037820561 [7.403e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(5017868102757122410727726556093198576060138201188209393119753396783495766 [5.017e72])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3119753396783495766 [3.119e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3119753396783495766}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3119753396783495766 [3.119e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3119753396783495766 [3.119e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(44544919528202237202548571769412799613 [4.454e37])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2548571769412799613 [2.548e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2548571769412799613}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2548571769412799613 [2.548e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(652)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 652) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 652}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 652)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 652)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(3111298501952807629519987414794370441716932530144346099568113118580025619356 [3.111e75])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8113118580025619356 [8.113e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8113118580025619356}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8113118580025619356 [8.113e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8113118580025619356 [8.113e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5650229432675821176 [5.65e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5650229432675821176 [5.65e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5650229432675821176}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5650229432675821176 [5.65e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5650229432675821176 [5.65e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(83254266100949183 [8.325e16])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 83254266100949183 [8.325e16]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 83254266100949183}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 83254266100949183 [8.325e16])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 83254266100949183 [8.325e16])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4659)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4659) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4659}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4659)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3375577 [3.375e6])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3375577 [3.375e6]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3375577}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3375577 [3.375e6])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(1024117126551757228719153724695661056556012818187397901 [1.024e54])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6556012818187397901 [6.556e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6556012818187397901}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6556012818187397901 [6.556e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6556012818187397901 [6.556e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(436)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 436) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 436}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 436)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5769)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5769) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5769}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5769)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5769)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(470900169990987046228468789753726997304897747031149 [4.709e50])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6997304897747031149 [6.997e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6997304897747031149}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6997304897747031149 [6.997e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6997304897747031149 [6.997e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3066)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3066) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3066}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3066)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(26786138642629309650924218433576964728448526930800895 [2.678e52])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4728448526930800895 [4.728e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4728448526930800895}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4728448526930800895 [4.728e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(331)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 331) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 331}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 331)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(34397656260441114278865913819008617495916526 [3.439e43])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3819008617495916526 [3.819e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3819008617495916526}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3819008617495916526 [3.819e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3819008617495916526 [3.819e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(267841792751764349076871216880393903625111621632228053213180 [2.678e59])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1621632228053213180 [1.621e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1621632228053213180}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1621632228053213180 [1.621e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5768)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5768) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5768}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5768)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5768)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(112366636368570787436293820087290706838246161131402190375475416033 [1.123e65])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1402190375475416033 [1.402e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1402190375475416033}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1402190375475416033 [1.402e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(22725641585 [2.272e10])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 22725641585 [2.272e10]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 22725641585}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 22725641585 [2.272e10])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(1173875616644372093129627896850557 [1.173e33])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2093129627896850557 [2.093e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2093129627896850557}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2093129627896850557 [2.093e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2093129627896850557 [2.093e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5992304400134102474 [5.992e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5992304400134102474 [5.992e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5992304400134102474}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5992304400134102474 [5.992e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5992304400134102474 [5.992e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(42)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 42) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 42}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 42)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4030)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4030) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4030}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4030)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(3290970680535385373628707476682473780477448080582672970230010888236819 [3.29e69])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2970230010888236819 [2.97e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2970230010888236819}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2970230010888236819 [2.97e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2970230010888236819 [2.97e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2947)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2947) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2947}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2947)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2947)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(556919225268055308950 [5.569e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6919225268055308950 [6.919e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6919225268055308950}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6919225268055308950 [6.919e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(173007240200325428963958429885635135867042944224910886111201478 [1.73e62])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4224910886111201478 [4.224e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4224910886111201478}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4224910886111201478 [4.224e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4224910886111201478 [4.224e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(34580724489581184094567207664793567293311694710401753602032941597344701 [3.458e70])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3602032941597344701 [3.602e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3602032941597344701}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3602032941597344701 [3.602e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(16802432621336724112 [1.68e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6802432621336724112 [6.802e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6802432621336724112}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6802432621336724112 [6.802e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(537119585900670163290 [5.371e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7119585900670163290 [7.119e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7119585900670163290}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7119585900670163290 [7.119e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7119585900670163290 [7.119e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(1023136358823481715683836823111349141 [1.023e36])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5683836823111349141 [5.683e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5683836823111349141}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5683836823111349141 [5.683e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5683836823111349141 [5.683e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(107099473316015657915725500550110312922151711616405543109916115597509 [1.07e68])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5543109916115597509 [5.543e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5543109916115597509}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5543109916115597509 [5.543e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5543109916115597509 [5.543e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639932 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999997 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9999999999999999997}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999997 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(3694)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3694) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3694}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3694)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3694)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(452194938522845471 [4.521e17])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 452194938522845471 [4.521e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 452194938522845471}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 452194938522845471 [4.521e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1889567280 [1.889e9])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1889567280 [1.889e9]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1889567280}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1889567280 [1.889e9])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1792)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1792) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1792}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1792)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(299821602273684785376501301069 [2.998e29])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3684785376501301069 [3.684e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3684785376501301069}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3684785376501301069 [3.684e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3684785376501301069 [3.684e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(19689858204193386215428792202861358602283520450208553227576976265964 [1.968e67])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8553227576976265964 [8.553e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8553227576976265964}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8553227576976265964 [8.553e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8553227576976265964 [8.553e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(778577 [7.785e5])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 778577 [7.785e5]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 778577}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 778577 [7.785e5])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2918)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2918) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2918}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2918)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2918)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(147176 [1.471e5])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 147176 [1.471e5]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 147176}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 147176 [1.471e5])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 147176 [1.471e5])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(1446839068991465740800720666961036 [1.446e33])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5740800720666961036 [5.74e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5740800720666961036}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5740800720666961036 [5.74e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31687] W2_Handler::w2_receive(0)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(97255085429674350122983379951797400008667132217354734783795656008595186188 [9.725e73])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3795656008595186188 [3.795e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3795656008595186188}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3795656008595186188 [3.795e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(7510177673523455868362683973593262498050388941501507799783390992913345814 [7.51e72])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9783390992913345814 [9.783e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9783390992913345814}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9783390992913345814 [9.783e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(120136418954283409949 [1.201e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 136418954283409949 [1.364e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 136418954283409949}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 136418954283409949 [1.364e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 136418954283409949 [1.364e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4592)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4592) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4592}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4592)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(4892429457169241569799755769271343068079375 [4.892e42])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5769271343068079375 [5.769e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5769271343068079375}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5769271343068079375 [5.769e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(6303164285205429258418170889008403218796285560900402600619805128995143089 [6.303e72])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 619805128995143089 [6.198e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 619805128995143089}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 619805128995143089 [6.198e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 619805128995143089 [6.198e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(12350730027969121112980895320632402118 [1.235e37])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2980895320632402118 [2.98e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2980895320632402118}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2980895320632402118 [2.98e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1992501095439741774 [1.992e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1992501095439741774 [1.992e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1992501095439741774}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1992501095439741774 [1.992e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1992501095439741774 [1.992e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(71675121124458934594116855200870328500961729693753864082153093685 [7.167e64])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3753864082153093685 [3.753e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3753864082153093685}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3753864082153093685 [3.753e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(5742642121197941783 [5.742e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5742642121197941783 [5.742e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5742642121197941783}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5742642121197941783 [5.742e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(259058940496885713409 [2.59e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9058940496885713409 [9.058e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9058940496885713409}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9058940496885713409 [9.058e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(387684330272211791797604225651917180586489714862785116675 [3.876e56])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6489714862785116675 [6.489e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6489714862785116675}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6489714862785116675 [6.489e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5692)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5692) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5692}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5692)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5692)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3312)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3312) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3312}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3312)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(22169838250360032534626014969052901975960544584235894358187 [2.216e58])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 544584235894358187 [5.445e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 544584235894358187}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 544584235894358187 [5.445e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 544584235894358187 [5.445e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(1253459598288018331150612 [1.253e24])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9598288018331150612 [9.598e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9598288018331150612}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9598288018331150612 [9.598e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9598288018331150612 [9.598e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(114904377193769027561 [1.149e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4904377193769027561 [4.904e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4904377193769027561}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4904377193769027561 [4.904e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4904377193769027561 [4.904e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1305025591985297 [1.305e15])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1305025591985297 [1.305e15]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1305025591985297}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1305025591985297 [1.305e15])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1305025591985297 [1.305e15])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(291)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 291) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 291}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 291)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 291)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(597515464574444343935 [5.975e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7515464574444343935 [7.515e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7515464574444343935}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7515464574444343935 [7.515e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7515464574444343935 [7.515e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4397)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4397) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4397}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4397)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4397)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(4459282768781015377020533350044016601870372157383782684419259 [4.459e60])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2157383782684419259 [2.157e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2157383782684419259}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2157383782684419259 [2.157e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(54534229966437493578543 [5.453e22])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4229966437493578543 [4.229e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4229966437493578543}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4229966437493578543 [4.229e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1951)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1951) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1951}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1951)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(537)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 537) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 537}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 537)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 537)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5522)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5522) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5522}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5522)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5522)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(2824531975493594488193275256837551074 [2.824e36])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8193275256837551074 [8.193e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 8193275256837551074}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8193275256837551074 [8.193e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(4876068111314045328352773734511563595577254488723392 [4.876e51])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3595577254488723392 [3.595e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3595577254488723392}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3595577254488723392 [3.595e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3595577254488723392 [3.595e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(88063830105580146410139549788774850384084391648873544238014898834386 [8.806e67])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3544238014898834386 [3.544e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3544238014898834386}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3544238014898834386 [3.544e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(224702498337736912851 [2.247e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4702498337736912851 [4.702e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4702498337736912851}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4702498337736912851 [4.702e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4702498337736912851 [4.702e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4433)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4433) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4433}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4433)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31978] W2_Handler::w2_receive(115792089237316195423570985008687907853269984665640564039457584007913129639934 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999999 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9999999999999999999}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999999 [9.999e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999999 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5464)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5464) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5464}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5464)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5464)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5668)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5668) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5668}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5668)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5668)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(156879667480835484358 [1.568e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6879667480835484358 [6.879e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6879667480835484358}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6879667480835484358 [6.879e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(29037929642934853459491487886643698545568776413524006796599244832353865 [2.903e70])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6796599244832353865 [6.796e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6796599244832353865}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6796599244832353865 [6.796e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6796599244832353865 [6.796e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5416)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5416) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5416}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5416)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5416)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2299)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2299) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2299}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2299)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2299)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(354294100029371237789073288013 [3.542e29])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9371237789073288013 [9.371e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9371237789073288013}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9371237789073288013 [9.371e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9371237789073288013 [9.371e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(358)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 358) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 358}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 358)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 358)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(486351670258767227104 [4.863e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6351670258767227104 [6.351e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6351670258767227104}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6351670258767227104 [6.351e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6351670258767227104 [6.351e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(247)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 247) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 247}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 247)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 247)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(18721866314900743378994170803658389979851153572384670693261792 [1.872e61])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3572384670693261792 [3.572e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3572384670693261792}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3572384670693261792 [3.572e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2386)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2386) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2386}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2386)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2386)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(424385554534761841412351919675875207741 [4.243e38])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2351919675875207741 [2.351e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2351919675875207741}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2351919675875207741 [2.351e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639935 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 10000000000000000000 [1e19]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 10000000000000000000}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 10000000000000000000 [1e19])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(75518199933928303 [7.551e16])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 75518199933928303 [7.551e16]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 75518199933928303}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 75518199933928303 [7.551e16])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 75518199933928303 [7.551e16])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(202705023740143978509265726428356396542 [2.027e38])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9265726428356396542 [9.265e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9265726428356396542}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9265726428356396542 [9.265e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(28967489721399899143548790280563502299253575594318489921480941727694 [2.896e67])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8489921480941727694 [8.489e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8489921480941727694}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8489921480941727694 [8.489e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8489921480941727694 [8.489e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(9812449542208386039649956114513392154725796965906 [9.812e48])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3392154725796965906 [3.392e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3392154725796965906}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3392154725796965906 [3.392e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(48720 [4.872e4])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 48720 [4.872e4]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 48720}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 48720 [4.872e4])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(312420244287446794390714254679073507715663130313841270092583102735883463128 [3.124e74])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2583102735883463128 [2.583e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2583102735883463128}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2583102735883463128 [2.583e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(210732203303551735192660385295441061045428933885612159659535506861126 [2.107e68])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2159659535506861126 [2.159e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2159659535506861126}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2159659535506861126 [2.159e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2159659535506861126 [2.159e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(7564503793465702213376419020854925460248109072 [7.564e45])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 854925460248109072 [8.549e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 854925460248109072}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 854925460248109072 [8.549e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 854925460248109072 [8.549e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(139)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 139) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 139}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 139)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 139)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(2040935562835911629809607366877061212623819425485663849869329333723 [2.04e66])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5663849869329333723 [5.663e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5663849869329333723}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5663849869329333723 [5.663e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(3098836719277760948125301087390502719802580935333462080277046461 [3.098e63])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5333462080277046461 [5.333e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5333462080277046461}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5333462080277046461 [5.333e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5333462080277046461 [5.333e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(6720700 [6.72e6])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6720700 [6.72e6]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6720700}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6720700 [6.72e6])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(295296360191251834172956463693257762174005426807638570942936 [2.952e59])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5426807638570942936 [5.426e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5426807638570942936}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5426807638570942936 [5.426e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(571)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 571) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 571}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 571)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(207294433244471291167 [2.072e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7294433244471291167 [7.294e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7294433244471291167}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7294433244471291167 [7.294e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7294433244471291167 [7.294e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(34818856107300912 [3.481e16])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 34818856107300912 [3.481e16]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 34818856107300912}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 34818856107300912 [3.481e16])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(645326474426547203313410069153905908525362434348 [6.453e47])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3905908525362434348 [3.905e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3905908525362434348}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3905908525362434348 [3.905e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(968)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 968) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 968}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 968)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(1677220591218421751247617708928804362110915004616649170623639827396 [1.677e66])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6649170623639827396 [6.649e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6649170623639827396}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6649170623639827396 [6.649e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(7342772394797366544026860941734241931346435442565256944362533813139 [7.342e66])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5256944362533813139 [5.256e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5256944362533813139}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5256944362533813139 [5.256e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5256944362533813139 [5.256e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(24732471547506366054997 [2.473e22])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2471547506366054997 [2.471e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2471547506366054997}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2471547506366054997 [2.471e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2471547506366054997 [2.471e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(550483741089173051399 [5.504e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 483741089173051399 [4.837e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 483741089173051399}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 483741089173051399 [4.837e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 483741089173051399 [4.837e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2033)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2033) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2033}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2033)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2033)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(413688445400928461103 [4.136e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3688445400928461103 [3.688e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3688445400928461103}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3688445400928461103 [3.688e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31687] W2_Handler::w2_receive(0)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31687] W2_Handler::w2_receive(0)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(187895622743977747039963347351056486407527 [1.878e41])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3347351056486407527 [3.347e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3347351056486407527}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3347351056486407527 [3.347e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(54706333464663183236236638997917124492831 [5.47e40])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6638997917124492831 [6.638e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6638997917124492831}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6638997917124492831 [6.638e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(4470119176562396628132287542747 [4.47e30])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2396628132287542747 [2.396e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2396628132287542747}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2396628132287542747 [2.396e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2396628132287542747 [2.396e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(285705741431895 [2.857e14])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 285705741431895 [2.857e14]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 285705741431895}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 285705741431895 [2.857e14])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(3576791020119777860462898646275749897716029 [3.576e42])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8646275749897716029 [8.646e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8646275749897716029}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8646275749897716029 [8.646e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8646275749897716029 [8.646e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(244927613366341351065235185622732955114620709240639543003 [2.449e56])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4620709240639543003 [4.62e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4620709240639543003}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4620709240639543003 [4.62e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(57394329810375907047738763090517963520070452 [5.739e43])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3090517963520070452 [3.09e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3090517963520070452}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3090517963520070452 [3.09e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(14)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 14) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 14}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 14)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 14)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(1183339859803844014463486311870377687865136846319757388950709857624 [1.183e66])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9757388950709857624 [9.757e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9757388950709857624}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9757388950709857624 [9.757e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9757388950709857624 [9.757e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(3151)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3151) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3151}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3151)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3151)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31978] W2_Handler::w2_receive(115792089237316195423570985008687907853269984665640564039457584007913129639933 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999998 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9999999999999999998}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999998 [9.999e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999998 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(3218)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3218) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3218}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3218)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3218)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1502927124786 [1.502e12])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1502927124786 [1.502e12]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1502927124786}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1502927124786 [1.502e12])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1502927124786 [1.502e12])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(291236407468292094623382066002192317060 [2.912e38])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3382066002192317060 [3.382e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3382066002192317060}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3382066002192317060 [3.382e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3382066002192317060 [3.382e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(24286209017408842634353152108465742030618433430676 [2.428e49])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5742030618433430676 [5.742e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5742030618433430676}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5742030618433430676 [5.742e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5742030618433430676 [5.742e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(6674212035338002 [6.674e15])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6674212035338002 [6.674e15]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6674212035338002}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6674212035338002 [6.674e15])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(17270186632402703585280380091578511663969881142877246548914805475016816288 [1.727e73])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8914805475016816288 [8.914e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8914805475016816288}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8914805475016816288 [8.914e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8914805475016816288 [8.914e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1160024340073485327 [1.16e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1160024340073485327 [1.16e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1160024340073485327}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1160024340073485327 [1.16e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1160024340073485327 [1.16e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639933 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999998 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9999999999999999998}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999998 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3312)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3312) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3312}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3312)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(413688445400928470107 [4.136e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3688445400928470107 [3.688e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3688445400928470107}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3688445400928470107 [3.688e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3688445400928470107 [3.688e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(652)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 652) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 652}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 652)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(5222)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5222) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5222}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5222)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5222)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(5788)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5788) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5788}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5788)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(291359761461405972701426685021907004981623306134328206773994 [2.913e59])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3306134328206773994 [3.306e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3306134328206773994}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3306134328206773994 [3.306e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(39655873147643671364474470168686104386831470828774593362933048 [3.965e61])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 828774593362933048 [8.287e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 828774593362933048}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 828774593362933048 [8.287e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 828774593362933048 [8.287e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(122830892293976944937159 [1.228e23])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 892293976944937159 [8.922e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 892293976944937159}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 892293976944937159 [8.922e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(113174701233648096720994992837203 [1.131e32])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8096720994992837203 [8.096e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8096720994992837203}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8096720994992837203 [8.096e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8096720994992837203 [8.096e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1951)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1951) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1951}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1951)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(265671472039330036177 [2.656e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5671472039330036177 [5.671e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5671472039330036177}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5671472039330036177 [5.671e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(1106)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1106) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1106}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1106)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(230922515321475498241373286697538 [2.309e32])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5498241373286697538 [5.498e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5498241373286697538}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5498241373286697538 [5.498e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5498241373286697538 [5.498e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2577357 [2.577e6])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2577357 [2.577e6]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2577357}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2577357 [2.577e6])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(454192996376460273431284370086980194109777720922477 [4.541e50])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 194109777720922477 [1.941e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 194109777720922477}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 194109777720922477 [1.941e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 194109777720922477 [1.941e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(551137284083931051551982583106954174621892349001810755 [5.511e53])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4621892349001810755 [4.621e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4621892349001810755}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4621892349001810755 [4.621e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4621892349001810755 [4.621e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(165542644149760874821695997160982128751787648702665280093 [1.655e56])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1787648702665280093 [1.787e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1787648702665280093}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1787648702665280093 [1.787e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2017)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2017) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2017}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2017)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2017)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(2305063948338462208955959768743672344042704 [2.305e42])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9768743672344042704 [9.768e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9768743672344042704}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9768743672344042704 [9.768e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9768743672344042704 [9.768e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2526515700899696386 [2.526e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2526515700899696386 [2.526e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2526515700899696386}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2526515700899696386 [2.526e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2526515700899696386 [2.526e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(377280810949771229194 [3.772e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7280810949771229194 [7.28e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7280810949771229194}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7280810949771229194 [7.28e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7280810949771229194 [7.28e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(756383576534290868151602149041868933297723894580 [7.563e47])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1868933297723894580 [1.868e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1868933297723894580}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1868933297723894580 [1.868e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1868933297723894580 [1.868e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(9194)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9194) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9194}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9194)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9194)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4412)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4412) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4412}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4412)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4412)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(88063830105580146410139549788774850384084391648873544238014898834386 [8.806e67])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3544238014898834386 [3.544e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3544238014898834386}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3544238014898834386 [3.544e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2281)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2281) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2281}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2281)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(3004215047459006713210178740406050896877169294194617599074022908152729860 [3.004e72])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9074022908152729860 [9.074e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9074022908152729860}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9074022908152729860 [9.074e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1297)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1297) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1297}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1297)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1297)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(8)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 8}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(292268972011535474700 [2.922e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2268972011535474700 [2.268e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2268972011535474700}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2268972011535474700 [2.268e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2268972011535474700 [2.268e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(3326673154492970815528455535607992111489928785333537741443349794106153 [3.326e69])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7741443349794106153 [7.741e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 7741443349794106153}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7741443349794106153 [7.741e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(15010626131845726660630694404831926282265696302119910951462006891992209010 [1.501e73])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1462006891992209010 [1.462e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1462006891992209010}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1462006891992209010 [1.462e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(91929542482006555049773513271925811024746011553157712920988734335432529 [9.192e70])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2920988734335432529 [2.92e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2920988734335432529}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2920988734335432529 [2.92e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2120405837915469 [2.12e15])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2120405837915469 [2.12e15]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2120405837915469}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2120405837915469 [2.12e15])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639932 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999997 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9999999999999999997}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999997 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(13272778957153673513 [1.327e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3272778957153673513 [3.272e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3272778957153673513}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3272778957153673513 [3.272e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3272778957153673513 [3.272e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(53202494002984362748541133299691384792665648845625245827295605877424778595081 [5.32e76])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5605877424778595081 [5.605e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5605877424778595081}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5605877424778595081 [5.605e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5605877424778595081 [5.605e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(65718547421541093987642108045080757 [6.571e34])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3987642108045080757 [3.987e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3987642108045080757}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3987642108045080757 [3.987e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(11469472406705111043544486206507417893 [1.146e37])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3544486206507417893 [3.544e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3544486206507417893}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3544486206507417893 [3.544e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3544486206507417893 [3.544e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(40979646480465141680795458468128293588092 [4.097e40])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5458468128293588092 [5.458e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5458468128293588092}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5458468128293588092 [5.458e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(8664817577075698569541457059868094686092407097359539911047887450431 [8.664e66])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9539911047887450431 [9.539e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 9539911047887450431}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9539911047887450431 [9.539e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9539911047887450431 [9.539e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(193155517375071782753 [1.931e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3155517375071782753 [3.155e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3155517375071782753}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3155517375071782753 [3.155e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(343709060860026 [3.437e14])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 343709060860026 [3.437e14]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 343709060860026}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 343709060860026 [3.437e14])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(197622071958032176770 [1.976e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7622071958032176770 [7.622e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 7622071958032176770}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7622071958032176770 [7.622e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(38450581823230896426091332763 [3.845e28])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3230896426091332763 [3.23e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3230896426091332763}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3230896426091332763 [3.23e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(204685314568962923133495700 [2.046e26])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4568962923133495700 [4.568e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4568962923133495700}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4568962923133495700 [4.568e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3382066002192317060 [3.382e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3382066002192317060 [3.382e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3382066002192317060}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3382066002192317060 [3.382e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1826)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1826) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1826}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1826)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1826)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(567)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 567) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 567}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 567)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 567)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(134184997351 [1.341e11])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 134184997351 [1.341e11]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 134184997351}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 134184997351 [1.341e11])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 134184997351 [1.341e11])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(94584112037311652689983651245439322201657600658382392596781410299313930911 [9.458e73])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6781410299313930911 [6.781e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6781410299313930911}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6781410299313930911 [6.781e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(58219741260271856483911333814311122654052819446150 [5.821e49])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1122654052819446150 [1.122e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1122654052819446150}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1122654052819446150 [1.122e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1122654052819446150 [1.122e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(229954631842 [2.299e11])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 229954631842 [2.299e11]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 229954631842}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 229954631842 [2.299e11])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(47314877085680099151 [4.731e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7314877085680099151 [7.314e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7314877085680099151}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7314877085680099151 [7.314e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7314877085680099151 [7.314e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(49335106724 [4.933e10])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 49335106724 [4.933e10]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 49335106724}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 49335106724 [4.933e10])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 49335106724 [4.933e10])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(10828 [1.082e4])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 10828 [1.082e4]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 10828}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 10828 [1.082e4])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30865] W2_Handler::w2_deposit(115792089237316195423570985008687907853269984665640564039457584007913129639934 [1.157e77])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 9999999999999999999 [9.999e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 9999999999999999999}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 9999999999999999999 [9.999e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(442639814669137346200 [4.426e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2639814669137346200 [2.639e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2639814669137346200}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2639814669137346200 [2.639e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2639814669137346200 [2.639e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(4036008604855205192 [4.036e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4036008604855205192 [4.036e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4036008604855205192}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4036008604855205192 [4.036e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(96205185783306492967852259252587 [9.62e31])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6492967852259252587 [6.492e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6492967852259252587}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6492967852259252587 [6.492e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(306383338176590228924 [3.063e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6383338176590228924 [6.383e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6383338176590228924}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6383338176590228924 [6.383e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6383338176590228924 [6.383e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(2)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 2}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(276053452181014321813428 [2.76e23])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3452181014321813428 [3.452e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3452181014321813428}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3452181014321813428 [3.452e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(4300704991292558414135233925754536318698049476729902 [4.3e51])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6318698049476729902 [6.318e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 6318698049476729902}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6318698049476729902 [6.318e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(12378030348367624 [1.237e16])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 12378030348367624 [1.237e16]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 12378030348367624}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 12378030348367624 [1.237e16])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 12378030348367624 [1.237e16])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(41982208656655939771201764631946932268898869595 [4.198e46])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1946932268898869595 [1.946e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1946932268898869595}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1946932268898869595 [1.946e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(2046520553 [2.046e9])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2046520553 [2.046e9]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2046520553}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2046520553 [2.046e9])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(37747613170415143181552554637904906007866851175365851181032472052305598229620 [3.774e76])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2472052305598229620 [2.472e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2472052305598229620}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2472052305598229620 [2.472e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1313373041 [1.313e9])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1313373041 [1.313e9]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1313373041}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1313373041 [1.313e9])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1313373041 [1.313e9])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(3922)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3922) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 3922}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3922)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3922)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1402190375475416033 [1.402e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1402190375475416033 [1.402e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1402190375475416033}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1402190375475416033 [1.402e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1402190375475416033 [1.402e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31687] W2_Handler::w2_receive(0)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(1674509978976780357707379994945815795671617661004086165791669118912 [1.674e66])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4086165791669118912 [4.086e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 4086165791669118912}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4086165791669118912 [4.086e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(345586531317944256837 [3.455e20])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5586531317944256837 [5.586e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5586531317944256837}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5586531317944256837 [5.586e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(54296886235626081280 [5.429e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4296886235626081280 [4.296e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4296886235626081280}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4296886235626081280 [4.296e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4296886235626081280 [4.296e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(3)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 3) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 3}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 3)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(6351670258767227104 [6.351e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 6351670258767227104 [6.351e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 6351670258767227104}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6351670258767227104 [6.351e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 6351670258767227104 [6.351e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(424)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 424) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 424}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 424)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(62019896757805486147 [6.201e19])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2019896757805486147 [2.019e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2019896757805486147}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2019896757805486147 [2.019e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(308038861585963208932928370550476203340 [3.08e38])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 2928370550476203340 [2.928e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 2928370550476203340}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 2928370550476203340 [2.928e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(5200555125518651462753193234 [5.2e27])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5518651462753193234 [5.518e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5518651462753193234}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5518651462753193234 [5.518e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5518651462753193234 [5.518e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(1656)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1656) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1656}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1656)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1656)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(2405041460334697270224257298438445300538266 [2.405e42])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 7298438445300538266 [7.298e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 7298438445300538266}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7298438445300538266 [7.298e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 7298438445300538266 [7.298e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(30483870733516912769371443970131473241662920025148834812732191786 [3.048e64])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5148834812732191786 [5.148e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5148834812732191786}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5148834812732191786 [5.148e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5148834812732191786 [5.148e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(308637820792135060265830650653835 [3.086e32])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5060265830650653835 [5.06e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 5060265830650653835}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5060265830650653835 [5.06e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5060265830650653835 [5.06e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(156365183502818427995900626368145516790176916808 [1.563e47])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8145516790176916808 [8.145e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8145516790176916808}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8145516790176916808 [8.145e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8145516790176916808 [8.145e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(346)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 346) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 346}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 346)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 346)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(207)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 207) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 207}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 207)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 207)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4702498337736912851 [4.702e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4702498337736912851 [4.702e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4702498337736912851}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4702498337736912851 [4.702e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4702498337736912851 [4.702e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4621892349001810755 [4.621e18])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4621892349001810755 [4.621e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4621892349001810755}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4621892349001810755 [4.621e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4621892349001810755 [4.621e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(869)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 869) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 869}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 869)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 869)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4951)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4951) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4951}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4951)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4951)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30293] W2_Handler::w2_deposit(5639248229 [5.639e9])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 5639248229 [5.639e9]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 5639248229}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 5639248229 [5.639e9])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30983] W2_Handler::w2_deposit(226938821248953711277320 [2.269e23])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8821248953711277320 [8.821e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 8821248953711277320}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8821248953711277320 [8.821e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4646)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4646) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4646}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4646)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4646)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(679985767820061152412919840037535146310764073977653705646 [6.799e56])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 764073977653705646 [7.64e17]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 764073977653705646}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 764073977653705646 [7.64e17])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 764073977653705646 [7.64e17])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [30574] W2_Handler::w2_deposit(0)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [6792] Wallet::deposit{value: 1}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(72611377551310747486315814934490294323536984581791253702626728626471 [7.261e67])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 1253702626728626471 [1.253e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 1253702626728626471}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1253702626728626471 [1.253e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 1253702626728626471 [1.253e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [31406] W2_Handler::w2_receive(4245)
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 4245) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 4245}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4245)
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 4245)
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [32096] W2_Handler::w2_receive(1577402174045670420365926820529516538076541781599347579 [1.577e54])
+    ├─ [0] VM::deal(W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], 10000000000000000000 [1e19])
+    │   └─ ← [Return] 
+    ├─ [0] console::log("Bound result", 8076541781599347579 [8.076e18]) [staticcall]
+    │   └─ ← [Stop] 
+    ├─ [8115] Wallet::receive{value: 8076541781599347579}()
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8076541781599347579 [8.076e18])
+    │   ├─ emit Deposit(dst: W2_Handler: [0x2e234DAe75C793f67A35089C9d99245E1C58470b], wad: 8076541781599347579 [8.076e18])
+    │   └─ ← [Stop] 
+    └─ ← [Stop] 
+
+  [18248] W2_Invariant_Test::invariant_w2_withdraw()
+    ├─ [2384] W2_Handler::totalEthSent() [staticcall]
+    │   └─ ← [Return] 960203018511254624842 [9.602e20]
+    ├─ [2363] W2_Handler::totalEthWithdrawn() [staticcall]
+    │   └─ ← [Return] 0
+    ├─ [0] VM::assertEq(960, 960) [staticcall]
+    │   └─ ← [Return] 
+    └─ ← [Stop] 
+
+Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 7.53s (7.52s CPU time)
+
+Ran 1 test suite in 7.53s (7.53s CPU time): 1 tests passed, 0 failed, 0 skipped (1 total tests)
